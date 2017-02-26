@@ -1,0 +1,88 @@
+=head2 Mon Feb  4 23:44:08 2013: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ragavan/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.008004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb  5 08:07:21 2013: C<Module> L<XML::CompactTree|XML::CompactTree>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ragavan/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb  5 08:07:22 2013: C<Module> L<XML::TreePuller|XML::TreePuller>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ragavan/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Feb  5 08:07:23 2013: C<Module> L<MediaWiki::DumpFile|MediaWiki::DumpFile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ragavan/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
