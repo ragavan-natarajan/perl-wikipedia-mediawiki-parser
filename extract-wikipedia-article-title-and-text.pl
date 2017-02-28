@@ -13,7 +13,7 @@ BEGIN {$| = 1};
 #
 # Download the following file
 # ===========================
-# wget https://dumps.wikimedia.org/itwiki/latest/itwiki-latest-pages-articles.xml.bz2
+# wget https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
 # ________________________________________________________________________________
 # This code extracts the article titles and contents of all the 
 # non-disambiguation and non-redirect articles present in the 
