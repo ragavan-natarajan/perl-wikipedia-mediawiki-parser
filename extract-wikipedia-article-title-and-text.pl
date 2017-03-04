@@ -110,3 +110,12 @@ sub get_execution_time {
     }
     return "$message";
 }
+
+# This method trims a string. 
+sub trimstr {
+	my $text = shift;
+	$text =~ s/\s\s+/ /g;
+	$text =~ s/^\s+//;
+	$text =~ s/\s+$//;
+	return $text;
+}
